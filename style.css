@@ -106,9 +106,12 @@ article {
   padding: 1rem;
   border-radius: 16px;
   background-color: var(--Rose-50);
-  h3 {
+  h2 {
+    font-size: 1.17rem;
+    font-weight: 600;
     margin-bottom: 0.5rem;
     color: var(--Rose-800);
+    font-family: "Outift", sans-serif;
   }
   ul {
     max-width: clamp(14.625rem, 57vw + 1.25rem, 16.313rem);
