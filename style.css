@@ -164,7 +164,7 @@ article {
 
 @media (min-width: 44rem) {
   body {
-    gap: 10rem;
+    gap: 8rem;
     background-color: var(--Stone-100);
   }
   article {
